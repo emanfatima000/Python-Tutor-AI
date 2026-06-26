@@ -2,6 +2,9 @@
 
 An AI-powered Python Tutor built with Streamlit and Google Gemini API. The application helps beginners learn Python by explaining concepts, debugging code, providing hints, and answering programming questions.
 
+## Live Demo
+https://python-tutor-ai-ayk74tdnjpz56md6ihh5mr.streamlit.app/
+
 ## Features
 
 * Interactive AI chat interface
@@ -61,8 +64,25 @@ Python-Tutor-AI/
 ├── requirements.txt
 └── README.md
 ```
-## Live Demo
-https://python-tutor-ai-ayk74tdnjpz56md6ihh5mr.streamlit.app/
+
+## 📸 Screenshots
+
+### Home Page
+
+![Home Page](screenshots/Home%20page.JPG)
+
+### Ask a Python Question
+
+![Question](screenshots/Question.JPG)
+
+### AI Response
+
+![Response](screenshots/Response.JPG)
+
+### Chat History
+
+![History](screenshots/history.JPG)
+
 
 ## Author
 
